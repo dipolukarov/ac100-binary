@@ -1,0 +1,2 @@
+Precompiled mainline linux kernel and patches from: https://gitorious.org/~marvin24 , linux-tegra@vger.kernel.org
+with my own config (reiserfs, etc...)
